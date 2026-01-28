@@ -1,1 +1,1 @@
-Prototyping in CUDA of a fast image compression pipeline with analysis. All explained in the report PDF. Additionally also an analysis on NvOF was carried out.
+Prototyping in CUDA of a fast image compression pipeline with analysis. All explained in the report PDF. Additionally also an analysis on NvOF was carried out. A complete review and analysis of the results can be seen in the file report.pdf
